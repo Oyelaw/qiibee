@@ -1,0 +1,42 @@
+{
+  "name": "qiibee-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "formik": "^1.5.8",
+    "immer": "6.0.2",
+    "next": "10.2.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-feather": "^2.0.3",
+    "react-redux": "^7.1.0",
+    "redux": "^3.6.0",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-observable": "^1.2.0",
+    "reselect": "^4.0.0",
+    "rxjs": "^6.5.4",
+    "storejars-react-datatable": "^1.5.3",
+    "yup": "0.27.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "@types/react-redux": "7.1.7",
+    "@types/yup": "0.26.27",
+    "@typescript-eslint/eslint-plugin": "3.6.0",
+    "@typescript-eslint/parser": "3.6.0",
+    "eslint": "7.4.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-jest": "23.18.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-react": "7.20.3",
+    "prettier": "2.0.5",
+    "typescript": "3.8.3"
+  }
+}
